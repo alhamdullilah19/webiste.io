@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>blablabla</title>
+    </head>
+    <body>
+        <h1>Text Formatting</h1>
+        <hr>
+        <p>This is in <b>bold</b> , we use the b tag.<br>This is in <i> italics</i> , we use the i tag.<br>This is <u>underlined</u> , we use the u tag.<br>This is <del>strikethrough</del> , we use the del tag.</p>
+        
+        
+    </body>
+    
+</html>
